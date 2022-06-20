@@ -1,10 +1,10 @@
 const contractAddress = "0x141e2C64568983b9f0719D3d0E9353ec85E0f110"; //Replace with your own contract address
 const chain = 'rinkeby'; // rinkeby or polygon
 
-const welcome_h1 = "Welcome to the CodeCats NFT Project!!";
+const welcome_h1 = "Welcome to the 0xHornets NFT Project!";
 const welcome_h2 = "Connect to MetaMask to Get Started";
-const welcome_p = 'The CodeCats NFT Project is a decentralized, open-source project that aims to demonstrate how to develope and launch your own NFT Collection. Follow step by step on the <a href="https://youtube.com/codestackr"  target="_blank" rel="noopener noreferrer">codeSTACKr</a> YouTube channel.';
-const h1_presale_coming_soon = "NFT Drop Coming Soon!!";
+const welcome_p = '0xHornets is a collection of 5,000 randomly generated and hand drawn NFTs that exist on the Polygon Blockchain.';
+const h1_presale_coming_soon = "NFT Drop Coming Soon!";
 const h1_presale_mint = "Pre-Sale Minting Open!!";
 const h1_public_mint = "Public Minting Open!!";
 const h2_presale_coming_soon = "Pre-Sale Minting Countdown";
@@ -17,7 +17,7 @@ const p_public_mint = "No whitelist needed. Public minting is now open! 🎉";
 const button_presale_coming_soon = "Get on the Whitelist";
 const button_presale_mint_whitelisted = "Mint Your Special NFT";
 const button_presale_mint_not_whitelisted = "Get on the Whitelist";
-const button_presale_already_minted = "Join The Community";
+const button_presale_already_minted = "Join The YellowJacket Club";
 const button_public_mint = "Mint Your NFT";
 const mint_failed = "Minting failed. 😢 Please try again.";
 
